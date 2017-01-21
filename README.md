@@ -22,4 +22,5 @@ The main subject of this thesis is solving Persian users problem with electronic
 
 In first I introduce detail of Persian language and its problem with computer, then write search engine definition and description of it and how to design and implement a search engine with Persian support? In last because the localization is important thing in new programming style explain how to use it in Java programming language.
 
-# keywords: Searcher,Searchengine,Lucene,Localization.
+# keywords:
+Searcher,Searchengine,Lucene,Localization.
