@@ -1,5 +1,5 @@
-# PSE
-Persian Search Engine
+# PCSE
+Persian Content Search Engine http://pcse.ir
 
 Dissertation Submitted for Degree of Undergraduate in Computer Science
 
