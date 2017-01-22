@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Document   : setting.xml
+    Created on : March 19, 2006, 4:58 PM
+    Author     : mnm
+    Description:
+        Purpose of the document follows.
+-->
+
+<root>
+<temp>
+<dir>/home/mnm/NetBeansProjects/mnmsearchengine/temp</dir>
+</temp>
+</root>

@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><!--
+    Document   : filetype.xml
+    Created on : March 19, 2006, 2:18 PM
+    Author     : mnm
+    Description:
+        Purpose of the document follows.
+--><root>
+<filetype>
+    <type>pdf</type>
+    <name>pdfmnm</name>
+    <id>1</id>
+</filetype>
+<filetype>
+    <type>djvu</type>
+    <name>pdf</name>
+    <id>1</id>
+</filetype>
+<filetype>
+    <type>doc</type>
+    <name>doc</name>
+    <id>1</id>
+</filetype>
+<filetype>
+    <type>html</type>
+    <name>doc</name>
+    <id>1</id>
+
+
+</filetype>
+<filetype>
+    <type>xml</type>
+    <name>doc</name>
+    <id>1</id>
+
+</filetype>
+<filetype>
+    <type>xml</type>
+    <name>doc</name>
+    <id>1</id>
+
+</filetype>
+<filetype>
+    <type>odt</type>
+    <name>doc</name>
+    <id>1</id>
+
+</filetype>
+<filetype>
+    <type>zip</type>
+    <name>doc</name>
+    <id>1</id>
+
+</filetype>
+<filetype>
+    <type>rar</type>
+    <name>doc</name>
+    <id>1</id>
+
+</filetype>
+<filetype>
+    <type>sql</type>
+    <name>doc</name>
+    <id>1</id>
+
+</filetype>
+<filetype>
+    <type>ps</type>
+    <name>doc</name>
+    <id>1</id>
+
+</filetype>
+<filetype>
+    <type>gz</type>
+    <name>doc</name>
+    <id>1</id>
+
+</filetype>
+<filetype>
+    <type>xls</type>
+    <name>doc</name>
+    <id>1</id>
+
+</filetype>
+<filetype>
+    <type>chm</type>
+    <name>doc</name>
+    <id>1</id>
+
+</filetype>
+
+
+</root>
