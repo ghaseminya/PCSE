@@ -1,26 +1,31 @@
-# PCSE
-Persian Content Search Engine http://pcse.ir
+Merlin
+======
+Free template with [Twitter Bootstrap](http://getbootstrap.com/) framework.
 
-Dissertation Submitted for Degree of Undergraduate in Computer Science
+### Download
 
-Title="Persian Search Engine Design And Implementation"
+[https://github.com/halibegic/merlin/archive/master.zip](https://github.com/halibegic/merlin/archive/master.zip)
 
-Computer Science
+### Credits
+ * [jQuery](http://jquery.com/)
+ * [Tether](http://tether.io/)
+ * [Bootstrap](http://getbootstrap.com/)
+ * [Font Awesome](http://fortawesome.github.io/Font-Awesome/)
+ * [Isotope](https://github.com/desandro/isotope)
+ * [ImagesLoaded](https://github.com/desandro/imagesloaded)
+ * [Animate.css](http://daneden.github.io/animate.css/)
+ * [jQuery Scroll To](http://flesler.blogspot.com/2007/10/jqueryscrollto.html)
+ * [jQuery One Page Nav](https://github.com/davist11/jQuery-One-Page-Nav)
+ * [jQuery Appear](https://github.com/morr/jquery.appear)
+ * [VenoBox](http://lab.veno.it/venobox/)
+ * [Gratisography](http://www.gratisography.com/)
 
-Qom University
+### Copyright and License
 
-Summer-2009
+Copyright 2014 [Hasan Alibegić](http://www.twitter.com/halibegic)
 
-Master:Seiied Mohammad Javad Razavian
+Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
+http://www.apache.org/licenses/LICENSE-2.0
 
-
-
-
-# Abstract
-The main subject of this thesis is solving Persian users problem with electronic world. I try to collect basic science information in this subject that is used to implementing of one instance of persian searchengine that we implemented. In all the thesis I try that write all problem that worked on it to solveing or correcting.
-
-In first I introduce detail of Persian language and its problem with computer, then write search engine definition and description of it and how to design and implement a search engine with Persian support? In last because the localization is important thing in new programming style explain how to use it in Java programming language.
-
-# keywords:
-Searcher,Searchengine,Lucene,Localization.
+Unless required by applicable law or agreed to in writing, software distributed under the License is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.

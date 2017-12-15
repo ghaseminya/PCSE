@@ -1,2 +1,0 @@
-#!/bin/sh
-pdftotext /home/mnm/index/sss.pdf /home/mnm/NetBeansProjects/mnmsearchengine/temp/temp/01tempmnm
