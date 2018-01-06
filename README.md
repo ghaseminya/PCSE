@@ -4,7 +4,7 @@ PCSE
 
 
 ### Credits
-www.pcse.ir
+pcse.ir
 
 ### Copyright and License
 
